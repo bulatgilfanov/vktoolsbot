@@ -1,4 +1,4 @@
-token = "388247778:AAEJYz5n1pKUXplUHJj3XHdInWt6a2CvNsM"
+token = "TOKEN"
 
 answer = "Команда не распознана, для вывода доступных команд, введите /help"
 
